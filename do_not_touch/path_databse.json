@@ -1,8 +1,9 @@
 {
   "table": {
+    "/home/sjq/.config/waybar/style.css": "/home/sjq/.adof/.config/waybar/style.css",
+    "/home/sjq/.config/alacritty/alacritty.toml": "/home/sjq/.adof/.config/alacritty/alacritty.toml",
     "/home/sjq/dotfiles_readme/README.md": "/home/sjq/.adof/README.md",
     "/home/sjq/.config/waybar/config": "/home/sjq/.adof/.config/waybar/config",
-    "/home/sjq/.config/niri/config.kdl": "/home/sjq/.adof/.config/niri/config.kdl",
-    "/home/sjq/.config/alacritty/alacritty.toml": "/home/sjq/.adof/.config/alacritty/alacritty.toml"
+    "/home/sjq/.config/niri/config.kdl": "/home/sjq/.adof/.config/niri/config.kdl"
   }
 }
