@@ -1,6 +1,7 @@
 {
   "table": {
     "/home/sjq/dotfiles_readme/README.md": "/home/sjq/.adof/README.md",
-    "/home/sjq/.bashrc": "/home/sjq/.adof/.bashrc"
+    "/home/sjq/.bashrc": "/home/sjq/.adof/.bashrc",
+    "/home/sjq/.config/alacritty/alacritty.toml": "/home/sjq/.adof/.config/alacritty/alacritty.toml"
   }
 }
